@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kiro Guri</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden; /* Ensures no scrollbars */
+        }
+        iframe {
+            width: 100vw; /* Full viewport width */
+            height: 100vh; /* Full viewport height */
+            border: none; /* No border around iframe */
+        }
+    </style>
+</head>
+<body>
+    <iframe 
+        src="https://script.google.com/macros/s/AKfycbwSJRIWIydqj_eP97YdEVM2VVSzXK2x6BTOErnrUaC_v_wPnDpNo7XiCw_f8Nkh5yi5/exec" 
+        allowfullscreen>
+    </iframe>
+</body>
+</html>
